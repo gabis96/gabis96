@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabis96
 - 👀 I’m interested in Frontend and Data Analysis
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me gabriela.rscp
 
 <!---
