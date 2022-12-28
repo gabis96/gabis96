@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabis96
-- 👀 I’m interested in Frontend and Data Analysis
+- 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me gabriela.rscp
+- 📫 How to reach me gabriela.rscp@gmail.com
 
 <!---
 gabis96/gabis96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
