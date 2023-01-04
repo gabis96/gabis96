@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabis96
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently working on personal data projects of my interest to grow in knowlegde and wxperience.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me gabriela.rscp@gmail.com
 
