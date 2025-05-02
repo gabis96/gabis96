@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabis96
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently working on interesting projects related to synthetic data generation and a personal project using blender API.
+- 👀 I’m interested inhow Artificial Intelligence can impact healthcare and other industries.
 - 📫 Reach me through gabriela.rscp@gmail.com
 
 <!---
